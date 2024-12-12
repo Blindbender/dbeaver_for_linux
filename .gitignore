@@ -234,3 +234,4 @@ pip-selfcheck.json
 *.png
 data
 .gitignore
+.gitattributes
