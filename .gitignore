@@ -233,3 +233,4 @@ pip-selfcheck.json
 *.lock
 *.png
 data
+.gitignore
